@@ -1,4 +1,3 @@
-//Hello World
 import './App.css'; 
 import React, { Component }  from 'react';
 
