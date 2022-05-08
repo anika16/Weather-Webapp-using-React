@@ -1,6 +1,3 @@
-//EKANSH JAIN
-//JAIN EKANSH
-//ANIKA 
 import './App.css'; 
 import React, { Component }  from 'react';
 
